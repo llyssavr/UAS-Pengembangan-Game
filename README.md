@@ -24,8 +24,8 @@ ini objektifnya, kumpulin 7 emas buat menang <br>
 <br>
 
 <img width="603" height="397" alt="image" src="https://github.com/user-attachments/assets/4bab29ae-2a4a-49fd-bd2f-d4c51e28c3bc" /> <br>
-ini scene pertama, di scene ini ada 2 gold. Yang kutandain item itu buat pindah ke scene selanjutnya <br>
-PLIS AMBIL SEMUA GOLD, DI SCENE 2 GA BISA BALIK KE SCENE 1 SOALNYA <br>
+ini scene pertama, di scene ini ada 2 gold. item yang ditandain buat pindah ke scene selanjutnya <br>
+wajib ambil semua gold, soalnya di scene 2 ga bisa balik ke scene 1 <br>
 <br>
 <br>
 
